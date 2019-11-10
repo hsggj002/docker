@@ -1,0 +1,3 @@
+代理 gcr.io 上的镜像
+
+FROM k8s.gcr.io/etcd-adm64:3.2.18
